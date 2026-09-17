@@ -1,7 +1,7 @@
 # Residential MoCA 2.5 Network Upgrade
 July 2026
 
-*Installation required troubleshooting to isolate a signal degradation point in the legacy dual-shield attic coax run and fishing a new quad-shield RG6 cable to eliminate points of failure.*
+*Installation required troubleshooting to isolate a signal degradation point in the legacy, dual-shield, attic coax run as well as fishing a new, quad-shield RG6 cable to eliminate points of failure.*
 
 ## Overview
 
