@@ -1,7 +1,7 @@
 # Residential MoCA 2.5 Network Upgrade
 July 2026
 
-*Replaced a failing Wi-Fi extender link to a home office with a wired Multimedia over Coax (MoCA) bridge. Took a workstation from <10 Mbps with constant dropouts to a stable 700 Mbps connection for $152 in parts. Installation required troubleshooting to isolate a signal degradation point in the legacy dual-shield attic coax run and fishing a new quad-shield RG6 cable to eliminate points of failure.*
+*Installation required troubleshooting to isolate a signal degradation point in the legacy dual-shield attic coax run and fishing a new quad-shield RG6 cable to eliminate points of failure.*
 
 ## Overview
 
